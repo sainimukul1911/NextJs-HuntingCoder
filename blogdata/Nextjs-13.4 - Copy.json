@@ -1,0 +1,6 @@
+{
+    "title":"copy 2 Nextjs 13.4",
+    "content":"Next.js 13.4 is a foundational release, marking stability for the App Router: App Router (Stable): React Server Components Nested Routes & Layouts Simplified Data Fetching Streaming & Suspense Built-in SEO Support Turbopack (Beta): Your local dev server, faster and with improved stability Server Actions (Alpha): Mutate data on the server with zero client JavaScript Since the release of Next.js 13 six months ago, we've been focused on building the foundations for the future of Next.js—App Router—in a way that can be incrementally adopted without unnecessary breaking changes. Today, with the release of 13.4, you can now start adopting the App Router for production.",
+    "author":"Mukul saini",
+    "slug":"Nextjs-13.4"
+}

@@ -1,0 +1,6 @@
+{
+    "title":"Next.js 13.5",
+    "content": "We've made an exciting breakthrough to optimize package imports, improving both local dev performance and production cold starts, when using large icon or component libraries or other dependencies that re-export hundreds or thousands of modules. Previously, we added support for modularizeImports, enabling you to configure how imports should resolve when using these libraries. In 13.5, we have superseeded this option with optimizePackageImports, which doesn't require you to specify the mapping of imports, but instead will automatically optimize imports for you. Libraries like @mui/icons-material, @mui/material, date-fns, lodash, lodash-es, ramda, react-bootstrap, @headlessui/react ,@heroicons/react , and lucide-react are now automatically optimized, only loading the modules you are actually using, while still giving you the convenience of writing import statements with many named exports.",
+    "author": "Mukul Saini",
+    "slug": "Nextjs-13.5"
+}
